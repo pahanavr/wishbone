@@ -1,0 +1,9 @@
+.swirling-staircase {
+    width: 100%;
+    height: 600px;
+    background-image: url(../../images/swirling_staircase.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    box-sizing: border-box;
+    padding: 266px 1095px 266px 60px;
+}

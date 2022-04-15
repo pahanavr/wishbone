@@ -1,0 +1,85 @@
+/*Page*/
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__button/header__button.css);
+/*Content*/
+@import url(../blocks/content/content.css);
+/*Intro*/
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__text-container/intro__text-container.css);
+@import url(../blocks/intro/__caption/intro__caption.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(../blocks/intro/__link/intro__link.css);
+@import url(../blocks/intro/__image/intro__image.css);
+/*Description*/
+@import url(../blocks/description/description.css);   
+@import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__quote/description__quote.css);
+@import url(../blocks/description/__quote-text/description__quote-text.css);
+@import url(../blocks/employee/employee.css);
+@import url(../blocks/employee/__icon/employee__icon.css);
+@import url(../blocks/employee/__description/employee__description.css);
+@import url(../blocks/employee/__name/employee__name.css);
+@import url(../blocks/employee/__position/employee__position.css);
+/*House*/
+@import url(../blocks/house/house.css);
+/*Section-title*/
+@import url(../blocks/section-title/section-title.css);
+/*Section-subtitle*/
+@import url(../blocks/section-subtitle/section-subtitle.css);
+/*Process*/
+@import url(../blocks/process/process.css);
+@import url(../blocks/process/__title/process__title.css);
+@import url(../blocks/process/__subtitle/process__subtitle.css);
+@import url(../blocks/process/__steps/process__steps.css);
+@import url(../blocks/process/__step/process__step.css);
+@import url(../blocks/process/__icon/process__icon.css);
+@import url(../blocks/process/__step-title/process__step-title.css);
+@import url(../blocks/process/__step-subtitle/process__step-subtitle.css);
+/*Marble-staircase*/
+@import url(../blocks/marble-staircase/marble-staircase.css);
+/*Clients*/
+@import url(../blocks/clients/clients.css);
+@import url(../blocks/clients/__text-container/clients__text-container.css);
+@import url(../blocks/clients/__title/clients__title.css);
+@import url(../blocks/clients/__subtitle/clients__subtitle.css);
+@import url(../blocks/clients/__text/clients__text.css);
+@import url(../blocks/clients/__icon-container/clients__icon-container.css);
+@import url(../blocks/clients/__icon/clients__icon.css);
+/*Swirling-staircase*/
+@import url(../blocks/swirling-staircase/swirling-staircase.css);
+/*Projects*/
+@import url(../blocks/projects/projects.css);
+@import url(../blocks/projects/__title/projects__title.css);
+@import url(../blocks/projects/__subtitle/projects__subtitle.css);
+@import url(../blocks/projects/__card-container/projects__card-container.css);
+@import url(../blocks/projects/__card/projects__card.css);
+@import url(../blocks/projects/__card-image/projects__card-image.css);
+@import url(../blocks/projects/__card-title/projects__card-title.css);
+@import url(../blocks/projects/__card-subtitle/projects__card-subtitle.css);
+@import url(../blocks/projects/__card-button/projects__card-button.css);
+@import url(../blocks/projects/__link/projects__link.css);
+/*Team*/
+@import url(../blocks/team/team.css);
+@import url(../blocks/team/__text/team__text.css);
+@import url(../blocks/team/__title/team__title.css);
+@import url(../blocks/team/__subtitle/team__subtitle.css);
+@import url(../blocks/team/__people-container/team__people-container.css);
+@import url(../blocks/team/__link/team__link.css);
+/*Offer*/
+@import url(../blocks/offer/offer.css);
+@import url(../blocks/offer/__text-container/offer__text-container.css);
+@import url(../blocks/offer/__title/offer__title.css);
+@import url(../blocks/offer/__subtitle/offer__subtitle.css);
+@import url(../blocks/offer/__link/offer__link.css);
+/*Footer*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__icon-container/footer__icon-container.css);
+@import url(../blocks/footer/__icon/footer__icon.css);

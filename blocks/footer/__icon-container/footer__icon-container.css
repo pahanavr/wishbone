@@ -1,0 +1,8 @@
+.footer__icon-container {
+    display: flex;
+    justify-content: space-between;
+    width: 112px;
+    position: absolute;
+    right: 142px;
+    bottom: 60px;
+}

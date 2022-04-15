@@ -1,0 +1,7 @@
+.clients {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 280px 60px 136px;
+    background-color: #403E3B;
+}

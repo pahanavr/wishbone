@@ -1,0 +1,10 @@
+.team__link {
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    color: #1B1A1A;
+    position: absolute;
+    top: 161px;
+    left: 25px;
+}

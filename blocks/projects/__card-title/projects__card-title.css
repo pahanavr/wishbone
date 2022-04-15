@@ -1,0 +1,12 @@
+.projects__card-title {
+    font-size: 14px;
+    line-height: 1.43;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #645C55;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    margin: 0;
+}

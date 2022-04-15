@@ -1,0 +1,9 @@
+.process__title {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.43;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #645C55;
+}

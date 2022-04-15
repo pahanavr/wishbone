@@ -1,0 +1,14 @@
+.header__button {
+    width: 155px;
+    height: 45px;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    padding: 11px 20px;
+    background-color: #000;
+    color: #fff;
+    border: 0;
+    border-radius: 14px;
+    cursor: pointer;
+}

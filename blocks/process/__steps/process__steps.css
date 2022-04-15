@@ -1,0 +1,7 @@
+.process__steps {
+    width: calc(100% - 136px * 2);
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 10px;
+}

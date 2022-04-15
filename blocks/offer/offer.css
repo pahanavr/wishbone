@@ -1,0 +1,9 @@
+.offer {
+    background-color: #CEC4BC;
+    height: 314px;
+    padding: 100px 136px 100px 156px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

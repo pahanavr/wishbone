@@ -1,0 +1,9 @@
+.intro_caption {
+    max-width: 190px;
+    margin: 0 0 20px 0;
+    font-size: 14px;
+    line-height: 1.43;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #645C55;
+}

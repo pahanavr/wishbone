@@ -1,0 +1,7 @@
+.footer {
+    height: 204px;
+    padding: 62px 142px 60px 136px;
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+}

@@ -1,0 +1,9 @@
+.intro__text-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    position: absolute;
+    top: 77px;
+    left: 60px;
+    padding: 60px 51px 51px 40px;
+}
